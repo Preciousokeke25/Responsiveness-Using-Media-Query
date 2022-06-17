@@ -117,3 +117,13 @@ button {
 
     }
 }
+
+@media (max-width:414px) {
+
+   main{
+        flex-direction: column;
+        font-size: 15px;
+
+
+    }
+}
